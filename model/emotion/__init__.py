@@ -1,0 +1,1 @@
+from model.emotion.predict import IAI_EMOTION
