@@ -9,5 +9,4 @@
 
 ## 프로젝트 프로세스
 
-![emotionchat_process](https://user-images.githubusercontent.com/47842737/197447105-39df9728-1bc1-40ff-9f8c-9811e609c513.png)
-
+![emotionchat_process](https://user-images.githubusercontent.com/47842737/197447276-94c51837-db77-4df6-be8f-84524b9b344e.png)
