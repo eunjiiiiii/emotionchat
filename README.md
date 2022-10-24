@@ -7,6 +7,7 @@
 
 ---
 
-# 1. 프로젝트 프로세스
+## 프로젝트 프로세스
 
+![emotionchat_process](https://user-images.githubusercontent.com/47842737/197447105-39df9728-1bc1-40ff-9f8c-9811e609c513.png)
 
